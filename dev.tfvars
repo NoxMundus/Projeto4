@@ -1,0 +1,6 @@
+project_name = "infraAsCode-DES"
+aws_access_key = "AKIAQILBPGPYULJ2I5GZ"
+aws_secret_key = "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"
+fila_sqs = "iac-sqs-des"
+redis_elasticashe = "iac-elasticashe-des"
+storage_s3 = "iac-s3-des"

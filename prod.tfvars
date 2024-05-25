@@ -1,0 +1,6 @@
+project_name = "infraAsCode-PRD"
+aws_access_key = "AKIAQILBPGPYULJ2I5GZ"
+aws_secret_key = "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"
+fila_sqs = "iac-sqs-prd"
+redis_elasticashe = "iac-elasticashe-prd"
+storage_s3 = "iac-s3-prd"
